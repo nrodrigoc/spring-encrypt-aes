@@ -1,7 +1,7 @@
-# Encrypt and Decrypt using Spring with AES Algorithm
+## Encrypt and Decrypt using Spring with AES Algorithm
 Simple API Encrypting and decrypting in Spring using the AES algorithm, that has a 32 bytes symmetric key to do this.
 
-## How it works?
+### How it works?
 
 You need to pass some value as a param in the encrypt path, then it will return a json with the resulting string.
 
